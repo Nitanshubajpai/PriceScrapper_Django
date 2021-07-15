@@ -1,0 +1,25 @@
+name:
+    css: '#productTitle'
+    type: Text
+
+price:
+    css: '#priceblock_saleprice'
+    type: Text
+price2:
+    css: '#priceblock_dealprice'
+    type: Text
+price3:
+    css: '#priceblock_ourprice'
+    type: Text
+price4:
+    css: '._1V3w'
+    type: Text
+price5:
+    css: '._30jeq3'
+    type: Text
+price6:
+    css: '.amt'
+    type: Text
+price7:
+    css: '#priceblock_ourprice'
+    type: Text
